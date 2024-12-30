@@ -55,7 +55,7 @@
       "category": "2D Animation",
       "price": "200",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Simple Storyboard",
         "Stock Animations",
         "Background Music",
@@ -69,7 +69,7 @@
       "category": "2D Animation",
       "price": "500",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Custom Script",
         "Basic Storyboard",
         "Basic Animations",
@@ -83,7 +83,7 @@
       "category": "2D Animation",
       "price": "750",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Professional Script",
         "Storyboard Design",
         "Fine Animations",
@@ -97,7 +97,7 @@
       "category": "2D Animation",
       "price": "900",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Elite Script",
         "Storyboard Design",
         "HQ Animations",
@@ -113,7 +113,7 @@
       "category": "3D Animation",
       "price": "400",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Basic Script",
         "Stock Pre/Production/Post",
         "Rendering Service Included",
@@ -127,7 +127,7 @@
       "category": "3D Animation",
       "price": "800",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Basic Script & Concept",
         "Basic Pre/Production/Post",
         "Rendering Service Included",
@@ -141,7 +141,7 @@
       "category": "3D Animation",
       "price": "1200",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Premium Script & Concept",
         "Custom Pre/Production/Post",
         "Rendering Service Included",
@@ -154,7 +154,7 @@
       "category": "3D Animation",
       "price": "1400",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Professional Script & Concept",
         "High-End Pre/Production/Post",
         "Rendering Service Included",
@@ -169,7 +169,7 @@
       "category": "Motion Graphics",
       "price": "150",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Simple Storyboard",
         "Stock Animations",
         "Background Music",
@@ -182,7 +182,7 @@
       "category": "Motion Graphics",
       "price": "300",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Custom Script",
         "Basic Storyboard",
         "Basic Animations",
@@ -196,7 +196,7 @@
       "category": "Motion Graphics",
       "price": "600",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Premium Script",
         "Premium Storyboard Design",
         "Fine Animations",
@@ -210,7 +210,7 @@
       "category": "Motion Graphics",
       "price": "800",
       "itemList": [
-        "30sec Duration",
+        "60 sec Duration",
         "Professional Script",
         "Professional Storyboard Design",
         "HQ Animations",
