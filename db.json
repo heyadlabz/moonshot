@@ -108,20 +108,7 @@
     }
   ],
   "threeDAnimation": [
-    {
-      "name": "Starter Shot",
-      "category": "3D Animation",
-      "price": "400",
-      "itemList": [
-        "60 sec Duration",
-        "Basic Script",
-        "Stock Pre/Production/Post",
-        "Rendering Service Included",
-        "AI Voice Over",
-        "Background Music",
-        "100% Satisfaction"
-      ]
-    },
+  
     {
       "name": "Basic Shot",
       "category": "3D Animation",
